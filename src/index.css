@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Neon Glow Styles */
+.glow {
+    color: #00ffcc; /* Neon Color */
+    text-shadow: 0 0 5px #00ffcc, 0 0 10px #00ffcc, 0 0 15px #00ccff, 0 0 20px #00ccff;
+}
